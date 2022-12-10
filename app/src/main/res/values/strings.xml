@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SipAppliaction</string>
+
+    <string-array name="levels_array">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 2</item>
+    </string-array>
+
 </resources>
